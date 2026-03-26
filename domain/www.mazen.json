@@ -1,0 +1,11 @@
+{
+  "description": "www redirect",
+  "repo": "https://github.com/mazn74793-png/make-future-v3",
+  "owner": {
+    "username": "mazn74793-png"
+  },
+  "records": {
+    "CNAME": "33bc38b48ae1bd8a.vercel-dns-017.com.",
+    "TXT": ["vc-domain-verify=www.mazen.is-a.dev,e728200ae0a33009ca98"]
+  }
+}

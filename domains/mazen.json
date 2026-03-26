@@ -1,8 +1,13 @@
 {
+  "description": "Mazen Full Stack Developer Portfolio",
+  "repo": "https://github.com/mazn74793-png/make-future-v3",
   "owner": {
     "username": "mazn74793-png"
   },
-  "record": {
-    "CNAME": "cname.vercel-dns.com"
+  "records": {
+    "A": ["216.198.79.1"],
+    "TXT": [
+      "vc-domain-verify=mazen.is-a.dev,ab6dc2625c60cdb3b30b"
+    ]
   }
 }
